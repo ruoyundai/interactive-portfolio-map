@@ -35,7 +35,7 @@ export const HOTSPOTS: Hotspot[] = [
   {
     id: 'offline mode',
     label: 'Animal Flow',
-    description: 'Fitness enthusiast currently obsessed with Animal Flow. She is convinced that bodyweight training is the final destination.',
+    description: 'Fitness enthusiast currently obsessed with Animal Flow.',
     x: 0,
     y: 62.0,
     width: 29.5,
