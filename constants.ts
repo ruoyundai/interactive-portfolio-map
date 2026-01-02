@@ -24,7 +24,7 @@ export const HOTSPOTS: Hotspot[] = [
   },
   {
     id: 'DRY',
-    label: 'RUOYUN(DRY) DAI',
+    label: 'RUOYUN DAI',
     description: 'Multidisciplinary Designer \nBerlin soul \nCultural traveler',
     x: 36.5,
     y: 27.2,
